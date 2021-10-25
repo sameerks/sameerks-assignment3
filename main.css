@@ -10,19 +10,20 @@
     margin-top: 50px;
     margin-bottom: 20px;
 }
-span {
+.text2 {
     text-align: center;
     font-weight: bold;
     font-size: 30px;
     margin-top: 40px;
     opacity: 0.4;
-    margin-left: 50px;
+    margin-left: 10px;
 }
-span1 {
+.soon {
     text-align: center;
     font-weight: bold;
     font-size: 30px;
     margin-top: 40px;
+    
 }
 .text3 {
     text-align: center;
@@ -80,18 +81,19 @@ img {
         margin-top: 70px;
         margin-bottom: 20px;
     }
-    span {
+    .text2 {
         font-weight: bold;
         font-size: 50px;
         margin-top: 40px;
         opacity: 0.4;
-        margin-left: 350px;
+        margin-left: 100px;
     }
-    span1 {
+    .soon {
         text-align: center;
         font-weight: bold;
         font-size: 50px;
         margin-top: 40px;
+        color: black;
     }
     .text3 {
         margin-left: 150px;
@@ -101,7 +103,7 @@ img {
     input {
         width: 450px;
         height: 60px;
-        text-align: start;
+        text-align: center;
         color: blue;
         border-radius: 50px;
         margin-left: 250px;
